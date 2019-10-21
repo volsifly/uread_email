@@ -1,0 +1,13 @@
+{
+    "_id" : ObjectId("objectId"),
+    "userid" : 1,   //已废弃属性
+    "usercode" : "usercode",    //qq登录的用户标识
+    "mailbox" : "mailbox",  //用户邮箱
+    "active" : 1,   //用户是否已激活邮箱
+    "activecode" : 23904809,    //激活码
+    "feeds" : [ //订阅的rss源objectid
+        ObjectId("feed objectId"), 
+        ObjectId("feed objectId2")
+    ],
+    "o_active" : true   //旧的是否激活标识，已废弃
+}

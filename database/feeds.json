@@ -1,0 +1,7 @@
+{
+    "_id" : ObjectId("objectId"),
+    "feedid" : 0,   //已废弃属性
+    "feedurl" : "feedUrl",  //rss源地址
+    "feedname" : "feedName",    //rss源名称
+    "lastupdate" : "Sun, 20 Oct 2019 15:33:16 +0800"    //最后更新时间
+}

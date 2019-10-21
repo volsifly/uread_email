@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.23",
+    "mongodb": "^3.0.2",
+    "nodemailer": "^4.4.0",
+    "request": "^2.83.0",
+    "rss-parser": "^2.10.8"
+  }
+}
